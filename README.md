@@ -1,5 +1,5 @@
 ## Objective:
-Software Engineer, Expectise In Multiple Languages, Provide Complete SoftWare Lifecycle Support, Responsible For Providing High Quality Code.    
+Software Engineer, Expectise In Multiple Languages, Provide Complete SoftWare Lifecycle Support and Responsible For Providing High Quality Code.    
  
 ## Skills: ✨
 C++ , Embacadero C++ builder, Java Basics, MERN Stack, ReactJS, Nodejs,
