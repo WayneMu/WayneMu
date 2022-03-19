@@ -1,8 +1,5 @@
 ## Objective:
-
-3+ years of  freelance Experience as a Software Developer, expertise in developing client server, 
-web based, and ntier applications with a solid understanding of JavaScript , and front-end languages,
-as well as insight of CI/CD pipeline. Detail oriented, ability to work independently and as a part of the team with excellent Technical, Analytical and Communication skills.    
+Software Engineer, Expectise In Multiple Languages, Provide Complete SoftWare Lifecycle Support, Responsible For Providing High Quality Code.    
  
 ## Skills: ✨
 C++ , Embacadero C++ builder, Java Basics, MERN Stack, ReactJS, Nodejs,
